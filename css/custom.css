@@ -269,7 +269,6 @@ label {
   color: rgba(255, 255, 255, 0.65) !important;
   text-decoration: none !important;
   border-radius: var(--radius-md);
-  font-size: 0.8125rem;
   font-weight: 500;
   transition: all var(--transition-fast);
   position: relative;
